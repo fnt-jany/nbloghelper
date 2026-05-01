@@ -1,0 +1,10 @@
+{
+  "name": "nbloghelper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Naver blog PostView link helper",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
